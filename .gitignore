@@ -1,0 +1,14 @@
+data/**/*.csv
+.venv/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+models/
+results/
+.env
+*.key
+*.safetensors
+*.pt
+*.pth
+training_args.bin

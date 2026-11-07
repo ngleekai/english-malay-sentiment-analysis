@@ -1,0 +1,116 @@
+term,entry_type,language,polarity,weight,aspect,source_note
+bagus,sentiment,ms,1.0,1.0,general,manual bilingual seed checked against training text
+baik,sentiment,ms,1.0,0.8,general,manual bilingual seed checked against training text
+terbaik,sentiment,ms,1.0,1.2,general,manual bilingual seed
+best,sentiment,en,1.0,0.8,general,manual bilingual seed checked against training text
+bestnya,sentiment,ms,1.0,1.2,general,manual bilingual seed checked against training text
+cantik,sentiment,ms,1.0,1.0,design,manual bilingual seed checked against training text
+lawa,sentiment,ms,1.0,1.0,design,manual bilingual seed
+suka,sentiment,ms,1.0,0.8,general,manual bilingual seed checked against training text
+love,sentiment,en,1.0,1.0,general,manual bilingual seed checked against training text
+good,sentiment,en,1.0,0.8,general,manual bilingual seed checked against training text
+great,sentiment,en,1.0,1.0,general,manual bilingual seed
+nice,sentiment,en,1.0,0.8,general,manual bilingual seed
+amazing,sentiment,en,1.0,1.2,general,manual bilingual seed
+awesome,sentiment,en,1.0,1.2,general,manual bilingual seed
+excellent,sentiment,en,1.0,1.2,general,manual bilingual seed
+perfect,sentiment,en,1.0,1.2,general,manual bilingual seed
+puas,sentiment,ms,1.0,1.0,general,manual bilingual seed
+berbaloi,sentiment,ms,1.0,1.0,price,manual bilingual seed
+murah,sentiment,ms,1.0,0.8,price,manual bilingual seed checked against training text
+affordable,sentiment,en,1.0,0.8,price,manual bilingual seed
+recommended,sentiment,en,1.0,1.0,general,manual bilingual seed
+support,sentiment,en,1.0,0.6,brand,manual bilingual seed checked against training text
+proud,sentiment,en,1.0,1.0,brand,manual bilingual seed
+wow,sentiment,en,1.0,0.9,general,manual bilingual seed checked against training text
+menarik,sentiment,ms,1.0,0.9,design,manual bilingual seed
+kemas,sentiment,ms,1.0,0.8,quality,manual bilingual seed
+selesa,sentiment,ms,1.0,0.8,quality,manual bilingual seed
+cepat,sentiment,ms,1.0,0.8,delivery,manual bilingual seed
+friendly,sentiment,en,1.0,0.8,service,manual bilingual seed
+happy,sentiment,en,1.0,0.9,general,manual bilingual seed
+tahniah,sentiment,ms,1.0,1.0,general,manual bilingual seed
+teruk,sentiment,ms,-1.0,1.0,general,manual bilingual seed checked against training text
+buruk,sentiment,ms,-1.0,1.0,general,manual bilingual seed checked against training text
+benci,sentiment,ms,-1.0,1.0,general,manual bilingual seed checked against training text
+hate,sentiment,en,-1.0,1.0,general,manual bilingual seed checked against training text
+mahal,sentiment,ms,-1.0,0.8,price,manual bilingual seed checked against training text
+expensive,sentiment,en,-1.0,0.8,price,manual bilingual seed
+kecewa,sentiment,ms,-1.0,1.0,general,manual bilingual seed checked against training text
+disappointed,sentiment,en,-1.0,1.0,general,manual bilingual seed
+disappointing,sentiment,en,-1.0,1.0,general,manual bilingual seed
+lambat,sentiment,ms,-1.0,0.8,delivery,manual bilingual seed
+slow,sentiment,en,-1.0,0.8,delivery,manual bilingual seed
+scam,sentiment,en,-1.0,1.2,authenticity,manual bilingual seed
+tipu,sentiment,ms,-1.0,1.2,authenticity,manual bilingual seed
+palsu,sentiment,ms,-1.0,1.2,authenticity,manual bilingual seed
+fake,sentiment,en,-1.0,1.2,authenticity,manual bilingual seed
+plagiat,sentiment,ms,-1.0,1.2,ethics,manual bilingual seed checked against training text
+plagiarism,sentiment,en,-1.0,1.2,ethics,manual bilingual seed
+ciplak,sentiment,ms,-1.0,1.2,ethics,manual bilingual seed checked against training text
+tiru,sentiment,ms,-1.0,1.0,ethics,manual bilingual seed
+curi,sentiment,ms,-1.0,1.2,ethics,manual bilingual seed checked against training text
+boikot,sentiment,ms,-1.0,1.0,brand,manual bilingual seed checked against training text
+boycott,sentiment,en,-1.0,1.0,brand,manual bilingual seed checked against training text
+unfollow,sentiment,en,-1.0,1.0,brand,manual bilingual seed checked against training text
+cancel,sentiment,en,-1.0,0.8,brand,manual bilingual seed checked against training text
+cancelled,sentiment,en,-1.0,0.8,brand,manual bilingual seed checked against training text
+sampah,sentiment,ms,-1.0,1.2,quality,manual bilingual seed checked against training text
+annoying,sentiment,en,-1.0,1.0,general,manual bilingual seed checked against training text
+rude,sentiment,en,-1.0,1.0,service,manual bilingual seed checked against training text
+sombong,sentiment,ms,-1.0,1.0,service,manual bilingual seed
+masalah,sentiment,ms,-1.0,0.8,general,manual bilingual seed
+problem,sentiment,en,-1.0,0.8,general,manual bilingual seed
+rosak,sentiment,ms,-1.0,1.0,quality,manual bilingual seed
+defect,sentiment,en,-1.0,1.0,quality,manual bilingual seed
+gagal,sentiment,ms,-1.0,1.0,general,manual bilingual seed
+fail,sentiment,en,-1.0,1.0,general,manual bilingual seed
+bodoh,sentiment,ms,-1.0,1.0,general,manual bilingual seed checked against training text
+fuck,sentiment,en,-1.0,1.2,general,manual bilingual seed checked against training text
+tak suka,sentiment,ms,-1.0,1.1,general,manual bilingual phrase
+tidak suka,sentiment,ms,-1.0,1.1,general,manual bilingual phrase
+tak puas,sentiment,ms,-1.0,1.1,general,manual bilingual phrase
+not good,sentiment,en,-1.0,1.1,general,manual bilingual phrase
+no good,sentiment,en,-1.0,1.1,general,manual bilingual phrase
+not worth,sentiment,en,-1.0,1.1,price,manual bilingual phrase
+overpriced,sentiment,en,-1.0,1.0,price,manual bilingual seed
+buang duit,sentiment,ms,-1.0,1.1,price,manual bilingual phrase
+bazir,sentiment,ms,-1.0,1.0,price,manual bilingual seed checked against training text
+menyampah,sentiment,ms,-1.0,1.0,general,manual bilingual seed
+ok,sentiment,mixed,0.0,0.7,general,manual neutral seed
+okay,sentiment,en,0.0,0.7,general,manual neutral seed
+okey,sentiment,ms,0.0,0.7,general,manual neutral seed checked against training text
+biasa,sentiment,ms,0.0,0.8,general,manual neutral seed
+average,sentiment,en,0.0,0.8,general,manual neutral seed
+maybe,sentiment,en,0.0,0.5,general,manual neutral seed checked against training text
+product,aspect,en,,0.0,product,manual product-domain concept
+produk,aspect,ms,,0.0,product,manual product-domain concept
+quality,aspect,en,,0.0,quality,manual product-domain concept
+kualiti,aspect,ms,,0.0,quality,manual product-domain concept
+material,aspect,en,,0.0,quality,manual product-domain concept
+kain,aspect,ms,,0.0,quality,manual product-domain concept
+design,aspect,en,,0.0,design,manual product-domain concept
+reka bentuk,aspect,ms,,0.0,design,manual product-domain concept
+corak,aspect,ms,,0.0,design,manual product-domain concept
+warna,aspect,ms,,0.0,design,manual product-domain concept
+price,aspect,en,,0.0,price,manual product-domain concept
+harga,aspect,ms,,0.0,price,manual product-domain concept
+service,aspect,en,,0.0,service,manual product-domain concept
+servis,aspect,ms,,0.0,service,manual product-domain concept
+delivery,aspect,en,,0.0,delivery,manual product-domain concept
+shipping,aspect,en,,0.0,delivery,manual product-domain concept
+penghantaran,aspect,ms,,0.0,delivery,manual product-domain concept
+brand,aspect,en,,0.0,brand,manual product-domain concept
+jenama,aspect,ms,,0.0,brand,manual product-domain concept
+original,aspect,en,,0.0,authenticity,manual product-domain concept
+fake,aspect,en,,0.0,authenticity,manual product-domain concept
+plagiat,aspect,ms,,0.0,ethics,manual product-domain concept
+ciplak,aspect,ms,,0.0,ethics,manual product-domain concept
+bad,sentiment,en,-1.0,1.0,general,v4 manual meaning review; attested in training; see LEXICON_REVIEW_v4.md
+ugly,sentiment,en,-1.0,1.0,design,v4 manual meaning review; attested in training; see LEXICON_REVIEW_v4.md
+beautiful,sentiment,en,1.0,1.0,design,v4 manual meaning review; attested in training; see LEXICON_REVIEW_v4.md
+disgusting,sentiment,en,-1.0,1.2,general,v4 manual meaning review; attested in training; see LEXICON_REVIEW_v4.md
+sale,aspect,en,,0.0,price,v4 descriptive concept; no standalone sentiment; training review
+discount,aspect,en,,0.0,price,v4 descriptive concept; no standalone sentiment; training review
+ori,aspect,ms,,0.0,authenticity,v4 descriptive concept; no standalone sentiment; training review
+
